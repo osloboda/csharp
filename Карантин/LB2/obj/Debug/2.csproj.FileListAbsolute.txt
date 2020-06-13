@@ -1,0 +1,13 @@
+C:\Users\Олег\Desktop\Карантин\bin\Debug\Lab_2.exe
+C:\Users\Олег\Desktop\Карантин\bin\Debug\Lab_2.pdb
+C:\Users\Олег\Desktop\Карантин\bin\Debug\System.dll
+C:\Users\Олег\Desktop\Карантин\bin\Debug\System.Drawing.dll
+C:\Users\Олег\Desktop\Карантин\bin\Debug\System.Windows.Forms.dll
+C:\Users\Олег\Desktop\Карантин\bin\Debug\System.Xml.dll
+C:\Users\Олег\Desktop\Карантин\obj\Debug\2.csprojAssemblyReference.cache
+C:\Users\Олег\Desktop\Карантин\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\Олег\Desktop\Карантин\obj\Debug\2.csproj.CopyComplete
+C:\Users\Олег\Desktop\Карантин\obj\Debug\Lab_2.exe
+C:\Users\Олег\Desktop\Карантин\obj\Debug\Lab_2.pdb
+C:\Users\Олег\Desktop\Карантин\obj\Debug\LB2.formapp.resources
+C:\Users\Олег\Desktop\Карантин\obj\Debug\2.csproj.GenerateResource.cache
